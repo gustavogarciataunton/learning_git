@@ -37,7 +37,7 @@ Adrian Gomez Lafaire @adriangl98/labWebsite
 Nicholas Rhodes@NickR055/NickR
 Ricardo Duenez@ricardoduenez/Lab8.0
 Vernesha Hazel@verneshahazel/Lab8
-Gustavo Garcia@/gustavogarciataunton/lab8
+Gustavo Garcia@/gustavogarciataunton/lab-8
 Mubtasim Abrar@rummanrulez/lab8
 Hunter Cornay@Corndogz/LAB8
 Grant Thumann@gathumann/git_demo
